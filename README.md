@@ -2,7 +2,9 @@
 
 Please choose 4 of the problems from our assignment page to complete.
 
-In addition, create an original animation of your own using the skills we learned. It does not have to be complex, but it should use some of the skills introduced this week.
+In addition, create an original program of your own. It does not have to be complex, but it should use some of the skills introduced this week.
+
+Total of 5 programs to submit.
 
 ---
 
