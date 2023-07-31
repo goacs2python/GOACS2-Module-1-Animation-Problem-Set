@@ -1,6 +1,6 @@
-# Module 2 Part 1 Problems
+# Module 1 Animation Problems
 
-Please choose 5 of the problems from our assignment page to complete.
+Please choose 4 of the problems from our assignment page to complete.
 
 ---
 
